@@ -4,10 +4,10 @@
 
 HOW TO USE?
 
-(git clone http://github.com/dmzazz/scrapping-vendor-pernikahan)
+git clone http://github.com/dmzazz/scrapping-vendor-pernikahan
 
-(npm install)
+npm install
 
-(node script.js)
+node script.js
 
 
